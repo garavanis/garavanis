@@ -1,4 +1,4 @@
-## Hi there 👋
+Currently a PhD student @ Department of Mechanical Engineering, Polimi. Interested in probabilistic methods (Bayesian, ProbML) and knowledge sharing for structural health monitoring applications.
 
 <!--
 **garavanis/garavanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
